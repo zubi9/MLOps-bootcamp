@@ -54,7 +54,11 @@ cover/
 # Translations
 *.mo
 *.pot
+<<<<<<< HEAD
 
+=======
+*.sh
+>>>>>>> a29f63e (homework01)
 # Django stuff:
 *.log
 local_settings.py
